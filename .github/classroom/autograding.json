@@ -75,7 +75,7 @@
       "setup": "g++ -g -o main main.cpp Fecha.cpp CuentaBanco.cpp",
       "run": "./main",
       "input": "9\n0\n",
-      "output": "Argentina,2022,02/02\n",
+      "output": "Argentina,2022,11/12\n",
       "comparison": "included",
       "timeout": 2,
       "points": 10
@@ -85,7 +85,7 @@
       "setup": "g++ -g -o main main.cpp Fecha.cpp CuentaBanco.cpp",
       "run": "./main",
       "input": "10\n0\n",
-      "output": "Mexico,1000,28/11\nArgentina,1000,29/11\nAlemania,6000,30/11\nBrasil,6000,01/12\n",
+      "output": "Mexico,1000,28/11\nArgentina,1000,29/11\nAlemania,4995,30/11\nBrasil,4995,01/12\n",
       "comparison": "included",
       "timeout": 2,
       "points": 15
